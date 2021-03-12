@@ -193,11 +193,15 @@ img, audio, video {
 
 html {
   font-size: 1.375em; /* 22px */
+  font-family: Times, Times New Roman, serif;
   line-height: 1.182em; /* 26px / ~ 120% */
   padding: 1.182em; /* 26px / ~ 120% */
   text-rendering: optimizeLegibility;
 }
-
+div {
+	padding: 10px;
+	padding-top: 26px;
+}
 label {
   display: block;
 }
