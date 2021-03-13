@@ -190,7 +190,9 @@ img, audio, video {
   Major Sixth Modular Scale:
   http://www.modularscale.com/?22&px&1.667&web&text
 */
-
+body {
+	background-color: #cfcfcf;
+}
 html {
   background-color: #cfcfcf;
   font-size: 1.375em; /* 22px */
