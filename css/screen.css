@@ -193,6 +193,8 @@ img, audio, video {
 body {
 	background-color: #cfcfcf;
 	text-align:center;
+	padding: 10px;
+	padding-top: 26px;
 }
 html {
   font-size: 1.375em; /* 22px */
@@ -201,10 +203,7 @@ html {
   padding: 1.182em; /* 26px / ~ 120% */
   text-rendering: optimizeLegibility;
 }
-div {
-	padding: 10px;
-	padding-top: 26px;
-}
+
 label {
   display: block;
 }
