@@ -192,12 +192,11 @@ img, audio, video {
 */
 body {
 	background-color: #cfcfcf;
+	text-align:center;
 }
 html {
-  background-color: #cfcfcf;
   font-size: 1.375em; /* 22px */
   font-family: Times, Times New Roman, serif;
-  text-align:center
   line-height: 1.182em; /* 26px / ~ 120% */
   padding: 1.182em; /* 26px / ~ 120% */
   text-rendering: optimizeLegibility;
