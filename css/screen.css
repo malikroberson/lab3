@@ -192,6 +192,7 @@ img, audio, video {
 */
 
 html {
+  background-color: #cfcfcf;
   font-size: 1.375em; /* 22px */
   font-family: Times, Times New Roman, serif;
   text-align:center
